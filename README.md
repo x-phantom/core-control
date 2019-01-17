@@ -1,4 +1,4 @@
-# Core v2 Management Tool
+# Core v2 Management Tool - Phantom Mainnet
 
 ## Installation
 
