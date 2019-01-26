@@ -1,9 +1,9 @@
-# Core v2 Management Tool - Qredit Mainnet
+# Core v2 Management Tool - Qredit Devnet
 
 ## Installation
 
 ```sh
-git clone https://github.com/geopsllc/core-control -b qredit-mainnet
+git clone https://github.com/geopsllc/core-control -b qredit-devnet
 cd core-control
 ./ccontrol.sh arg1 [arg2]
 ```
