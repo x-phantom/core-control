@@ -23,7 +23,8 @@ cd core-control
 | `config` | `reset` | Reset Config Files to Defaults |
 
 ## General
-This is a Streamlined CLI-Based Core v2 Management Tool. 
+This is a Streamlined CLI-Based Core v2 Management Tool.
+- Installs fail2ban for ssh, and ufw allowing only port 22(ssh) and the cores ports.
 - For start/restart/stop/logs you can skip the 'all' argument as it's the default.
 - When setting a delegate secret just paste your secret after the 'set' argument without quotes.
 - The snapshot is stored in the 'snapshots' folder in your home directory using the database name, e.g. ark_mainnet. 
